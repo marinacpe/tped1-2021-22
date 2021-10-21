@@ -1,0 +1,27 @@
+body {
+
+    font-family: Arial, sans-serif;  
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+#Titulo h1 {
+    
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+}
+
+
+#img1 img {
+    
+width: 100%
+
+}
+
+#Caja2, #Caja3, #Caja4, #Caja5, #Caja6 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}

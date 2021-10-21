@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;    
+}
+
+
+.inaccesibles:hover {
+    text-decoration: line-through
+}
+
+#Menu {
+    width: 1000px; /* que ocupe el ancho de la pantalla */
+    height: 1000px; /* para que sea cuadrada (igual a width) */
+    background-image:url(imgs/fondo.jpg);
+    background-size: contain; 
+    padding: 200px;
+}
+
+#PrimeraCaja {
+
+background-color: white;
+background-size: cover;
+}
+h1 {
+    font-size: 64px;
+    line-height: 104px;
+    font-weight: 100;
+}
+
+h2 {
+    font-size: 18px;
+    color: teal;
+}
+
+p {
+    font-size: 20px;
+    line-height: 60px;
+    font-weight: 100;
+}
+
+#SegundaCaja {
+
+    background-size: cover;
+    width: 2000px;
+    height: 175px;
+    padding: 50px;
+    background-color: teal;
+}
+
+a:hover {
+    color: lightblue;
+  }
+
+
+ul {
+    
+    list-style: none;    
+    font-size: 20px;
+    color:white;
+}
